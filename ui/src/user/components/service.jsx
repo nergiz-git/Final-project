@@ -32,7 +32,7 @@ function Service() {
                         <img
                             src={item.img}
                             alt={item.title}
-                            className="w-[300px] h-90 object-cover  "
+                            className="w-[367px] h-90 object-cover  "
                         />
                         <h2 className={`mt-3 text-[23px] font-semibold ${theme ? "text-[white]" : "text-[#000000]"}`}>
                             {item.title[i18next.language]}

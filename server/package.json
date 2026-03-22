@@ -105,7 +105,6 @@
     "is-regex": "^1.2.1",
     "js-stringify": "^1.0.2",
     "json": "^11.0.0",
-    "json-server": "^1.0.0-beta.3",
     "json5": "^2.2.3",
     "jstransformer": "^1.0.0",
     "loadware": "^2.0.0",
@@ -210,5 +209,7 @@
     "wrappy": "^1.0.2",
     "ws": "^8.18.3"
   },
-  "devDependencies": {}
+  "devDependencies": {
+    "json-server": "^1.0.0-beta.5"
+  }
 }

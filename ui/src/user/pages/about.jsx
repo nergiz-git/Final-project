@@ -9,13 +9,14 @@ import ScrollToTop from "react-scroll-to-top";
 import VdeoAbout from "../components/vdeoAbout";
 import MainContext from "../context/context";
 import { useTranslation } from "react-i18next";
+import { Helmet } from "react-helmet";
 
 function About() {
   const { t } = useTranslation();
 
-  useEffect(() => {
-    document.title = 'About';
-  }, []);
+  // useEffect(() => {
+  //   document.title = 'About';
+  // }, []);
   let { theme } = useContext(MainContext)
   useEffect(() => {
   document.body.className = theme ? "dark" : "";
@@ -23,6 +24,10 @@ function About() {
 
   return (
     <div className={`${theme ? "bg-dark" : "bg-light"}`}>
+      <Helmet>
+        <title>About</title>
+        <link rel="icon" type="image/svg+xml" href="https://theelora.com/wp-content/uploads/2023/12/cropped-android-chrome-512x512-1-270x270.png" />
+      </Helmet>
       <div className="header" >
         <ScrollToTop smooth top="20" width="20" height="20" color="#fff"/>
         <div className="container">

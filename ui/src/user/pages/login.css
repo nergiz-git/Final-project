@@ -51,6 +51,7 @@
 
 
 }
+
 .or-sign {
   margin-top: 30px;
   position: relative;
@@ -73,11 +74,12 @@
   display: flex;
   justify-content: center;
   gap: 20px;
-height: 70px;
+  height: 70px;
   align-items: center;
   margin-bottom: 20px;
 }
-.forum-img img:hover{
+
+.forum-img img:hover {
   width: 25%;
   height: 80%;
   margin-right: 10px;
@@ -86,12 +88,13 @@ height: 70px;
   -webkit-box-shadow: 1px -2px 58px -19px rgba(0, 0, 0, 0.75);
   -moz-box-shadow: 1px -2px 58px -19px rgba(0, 0, 0, 0.75);
 }
+
 .forum-img img {
   cursor: pointer;
   width: 20%;
   height: 70%;
   transition: 1s;
-  
+
 }
 
 .form-container h1 {
@@ -106,7 +109,7 @@ height: 70px;
   color: #ffffff !important;
   line-height: 32px;
   background-color: #3a5041;
-padding: 12px 22px;
+  padding: 12px 22px;
   border-radius: 30px 0;
 }
 
@@ -117,7 +120,8 @@ padding: 12px 22px;
   letter-spacing: 0.5px;
   margin: 20px 0 30px;
 }
-.login-watch-icon{
+
+.login-watch-icon {
   color: #fff;
   cursor: pointer;
   background-color: #3a5041;
@@ -130,19 +134,21 @@ padding: 12px 22px;
   border-radius: 50%;
   transition: 0.8s;
 }
-.login-watch-icon:hover{
-background-color: #B58269;
+
+.login-watch-icon:hover {
+  background-color: #B58269;
 }
 
 .form-container span {
   font-size: 12px;
 }
 
-.form-container  form p a {
-  color: #333;
-  font-size: 14px;
+.form-container form p a {
+  color: #5a6f5a;
+  font-size: 15px;
   text-decoration: none;
-  margin: 15px 0;
+  margin-left: 300px;
+  margin-top: 10px;
 }
 
 .container-login button {
@@ -162,7 +168,7 @@ background-color: #B58269;
 .loginBtn {
   margin-top: 30px;
   height: 60px;
-  width: 100%;
+  width: 75%;
   background: #B58269 !important;
 
   font-style: normal;
@@ -282,17 +288,19 @@ button.ghost {
 
 .pasword-icon {
   width: 100%;
- 
+
 
   position: relative;
 }
-.pas-icons input{
-margin-left: 40px;
+
+.pas-icons input {
+  margin-left: 40px;
 }
+
 .pas-icons {
   position: absolute;
   top: 30px;
-  right: 18px;
+  right: 85px;
   font-size: 25px;
   color: #333;
   cursor: pointer;
@@ -303,7 +311,7 @@ margin-left: 40px;
   background-color: #eee;
   border: none;
   padding: 16px 15px;
-  margin: 10px 0;
+  margin: 10px 40px;
   width: 430px;
   border-radius: 5px;
   font-size: 20px;
@@ -454,20 +462,523 @@ margin-left: 40px;
   background-color: #fff;
   /* padding: 14px 24px; */
   border-radius: 40px 0;
-  margin-bottom: 30px;
+  margin-bottom: 45px;
   height: 70px;
-    position: relative;
+  position: relative;
 
 
 }
 
 .overlay-img img {
-  width: 100%;
-    position: absolute;
-  top: -65px;
+  width: 93%;
+  position: absolute;
+  top: 15px;
   left: 50%;
   transform: translateX(-50%);
   z-index: 5;
-  
+
 }
 
+@media screen and (max-width: 1750px) {
+
+
+   .loginBtn {
+    width: 83%;
+  }
+    .pas-icons {
+    position: absolute;
+    top: 30px;
+    right: 55px;
+
+  }
+}
+
+@media screen and (max-width: 1450px) {
+
+  .pas-icons {
+    position: absolute;
+    top: 24px;
+
+
+  }
+
+  .remember-me p {
+    font-size: 12px;
+  }
+
+  .form-container input {
+    margin: 10px -41px;
+  }
+
+  .loginBtn {
+    width: 120%;
+  }
+
+  .forgot-link {
+    margin-left: 230px !important;
+
+  }
+
+  .pas-icons {
+    right: -20px;
+  }
+}
+
+@media screen and (max-width: 1350px) {
+
+  .pas-icons {
+    position: absolute;
+    top: 24px;
+
+
+  }
+
+   .loginBtn {
+    width: 120%;
+  }
+}
+
+@media screen and (max-width: 1250px) {
+
+  .pas-icons {
+    position: absolute;
+    top: 24px;
+
+
+  }
+
+  .overlay-img {
+    width: 300px;
+  }
+
+  .form-container form {
+    margin-bottom: 53px !important;
+    padding: 0 10px;
+    margin: 10px 63px;
+  }
+}
+
+@media screen and (max-width: 1150px) {
+  .pas-icons {
+    position: absolute;
+    top: 24px;
+
+  }
+   .loginBtn {
+    width: 100%;
+  }
+
+  .remember-me input {
+    width: 12px !important;
+    padding: 20px 40px !important;
+    height: 12px;
+    background-color: #333;
+  }
+
+  .overlay-img {
+    width: 280px;
+  }
+
+  .remember-me p {
+    font-size: 10px;
+  }
+
+  .remember-me input[type=checkbox]:checked:after {
+    content: "";
+    display: block;
+    width: 2px;
+    height: 6px;
+    border: solid white;
+    border-width: 0 2px 2px 0;
+    -webkit-transform: rotate(45deg);
+    -ms-transform: rotate(45deg);
+    transform: rotate(45deg);
+    position: absolute;
+    top: 2px;
+    left: 5px;
+  }
+
+  .remember-me input[type=checkbox]:before {
+    content: "";
+    display: block;
+    position: absolute;
+    width: 14px;
+    height: 14px;
+    top: 0;
+    left: 0;
+    background-color: #e9e9e9;
+    border-radius: 3px;
+  }
+
+  .remember-me input[type=checkbox]:checked:before {
+    content: "";
+    display: block;
+    position: absolute;
+    width: 14px;
+    height: 14px;
+    top: 0;
+    left: 0;
+    background-color: #1E80EF;
+    border-radius: 3px;
+  }
+}
+
+@media screen and (max-width: 1000px) {
+  .form-container form {
+    margin-bottom: 53px;
+    padding: 0 10px;
+  }
+
+  .pas-icons {
+    position: absolute;
+    top: 24px;
+    font-size: 25px;
+    color: #333;
+    cursor: pointer;
+  }
+
+  .form-container input {
+    margin: 10px -28px;
+    width: 330px;
+  }
+
+  .loginBtn {
+    width: 120%;
+  }
+
+  .forgot-password {
+    margin-left: -59px;
+  }
+
+}
+
+@media screen and (max-width: 950px) {
+  .pas-icons {
+    position: absolute;
+    top: 24px;
+
+  }
+
+  .container-login button {
+
+    padding: 12px 45px;
+
+  }
+
+  .form-container h1 {
+    font-size: 22px;
+    padding: 10px 24px;
+    border-radius: 20px 0;
+  }
+
+  .remember-me p {
+    font-size: 8px;
+  }
+
+  .forum-img {
+    width: 290px;
+  }
+
+  .pas-icons {
+    font-size: 22px;
+    right: 0;
+    top: 28px
+  }
+
+}
+
+@media screen and (max-width: 850px) {
+  .pas-icons {
+    position: absolute;
+    top: 24px;
+
+
+  }
+
+  .login-watch-icon {
+    color: #fff;
+    cursor: pointer;
+    background-color: #3a5041;
+    width: 40px;
+    height: 40px;
+    font-size: 16px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+  }
+
+  .forum-img {
+    width: 250px;
+  }
+
+  /* .overlay-img {
+    width: 240px;
+    border-radius: 25px 0;
+  } */
+  /* .overlay-img img {
+    top: -60px;
+  } */
+
+  .or-sign {
+    margin-top: 40px;
+    position: relative;
+  }
+
+  .loginBtn {
+    margin-top: 20px;
+    height: 50px;
+   
+    font-size: 16px !important;
+
+  }
+
+  .container-login button {
+    padding: 9px 45px;
+
+  }
+
+  .forgot-password {
+    margin-left: -81px;
+  }
+
+  .pas-icons {
+    right: -10px;
+  }
+}
+
+@media screen and (max-width: 750px) {
+  .pas-icons {
+    position: absolute;
+    top: 26px;
+    right: 20px;
+
+
+  }
+
+  .form-container h1 {
+    font-size: 18px;
+    padding: 6px 20px;
+    border-radius: 15px 0;
+    margin-bottom: 20px;
+  }
+
+  .remember-me p {
+    font-size: 6px;
+  }
+
+  .container-login button {
+    padding: 9px 45px;
+
+  }
+
+  .loginBtn {
+    margin-top: 30px;
+    height: 50px;
+    font-size: 16px !important;
+    /* margin-right: 50px; */
+
+  }
+
+  .or-sign {
+    margin-top: 40px;
+    position: relative;
+  }
+
+  .forum-img {
+    width: 200px;
+  }
+
+  .form-container hr {
+    height: 2px;
+    width: 80%;
+    color: #c4ccc7;
+    background-color: #ccd1ce;
+
+
+  }
+
+  .forgot-password {
+    margin-left: -76px;
+
+  }
+}
+
+@media screen and (max-width: 670px) {
+  /* .login-col {
+    display: flex;
+    flex-direction: column;
+  } */
+
+  .form-container form {
+    margin-left: 50px;
+    width: 80%;
+  }
+
+  .remember-me p {
+    font-size: 12px;
+  }
+
+  .overlay-container {
+    display: none;
+  }
+
+  .sign-up-container {
+    opacity: 1;
+    width: 100%;
+    z-index: 1;
+  }
+
+  .sign-in-container {
+    opacity: 1;
+    width: 100%;
+    z-index: 5;
+
+  }
+
+  .remove-up-sign {
+    opacity: 0;
+    width: 100%;
+  }
+
+  .remove-sign-in {
+    opacity: 0;
+    width: 100%;
+  }
+
+
+
+  .account-text {
+    display: block;
+    font-family: 'Outfit';
+    font-size: 18px;
+  }
+
+  .account-text b {
+    font-size: 18px;
+    color: #3a5041;
+  }
+
+  .forum-img {
+    width: 350px;
+  }
+
+  .form-container input {
+    width: 100%;
+    margin: 10px 0;
+
+  }
+
+  .form-container form {
+    margin-bottom: 53px;
+  }
+
+
+  .loginBtn {
+    /* margin-right: 150px; */
+    width: 100%;
+  }
+
+  /* .form-container h1{
+  margin-right: 160px;
+}  */
+
+}
+
+@media screen and (max-width: 570px) {
+
+
+  .remember-me p {
+    font-size: 10px;
+  }
+
+  .form-container hr {
+    height: 2px;
+    width: 80%;
+    color: #c4ccc7;
+    background-color: #ccd1ce;
+
+
+  }
+
+}
+
+@media screen and (max-width: 490px) {
+
+
+  .remember-me p {
+    font-size: 9px;
+  }
+
+  .form-container hr {
+    height: 2px;
+    width: 80%;
+    color: #c4ccc7;
+    background-color: #ccd1ce;
+
+
+  }
+
+  .forum-img {
+    width: 300px;
+  }
+}
+
+@media screen and (max-width: 430px) {
+
+
+  .remember-me p {
+    font-size: 7px;
+  }
+
+  .forum-img {
+    width: 280px;
+  }
+
+  .forgot-link {
+    margin-left: 30px;
+  }
+
+  .form-container form p a {
+    margin-left: 10px;
+  }
+}
+
+@media screen and (max-width: 370px) {
+  .pas-icons {
+
+    font-size: 19px;
+    top: 26px;
+  }
+
+  .forum-img {
+    width: 230px;
+  }
+
+  .remember-me p {
+    font-size: 6px;
+  }
+
+
+  .login-span {
+    font-size: 12px !important;
+    padding: 0 6px !important;
+  }
+
+  .account-text {
+    font-size: 14px;
+  }
+
+  .account-text b {
+    font-size: 16px !important;
+  }
+
+  .container-login button {
+    padding: 6px 45px;
+    font-size: 14px !important;
+    margin-top: 20px;
+  }
+
+
+
+}

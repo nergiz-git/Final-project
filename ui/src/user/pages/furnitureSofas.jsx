@@ -130,6 +130,7 @@ import sofa1 from "../../assets/sofa1.webp";
 import ProductCard from "../components/productCard";
 import { useOutletContext } from "react-router";
 import MainContext from "../context/context";
+import { Helmet } from "react-helmet";
 
 
 function FurnitureSofas() {
@@ -157,6 +158,10 @@ function FurnitureSofas() {
 
   return (
     <div className={`pt-[1px] ${theme ? "bg-dark" : "bg-light"}`}>
+            <Helmet>
+        <title>Beds</title>
+        <link rel="icon" type="image/svg+xml" href="https://www.jenniferfurniture.com/cdn/shop/files/MazieSofa.jpg?v=1712519081&width=1080" />
+      </Helmet>
       {/* Header Section - Responsive */}
       <div className="mt-32 sm:mt-40 md:mt-[200px] mx-4 sm:mx-6 md:mx-[48px] mb-8 sm:mb-12 md:mb-[68px]">
         <h1 className="text-3xl sm:text-4xl md:text-[50px] mb-2 sm:mb-3 md:mb-[10px] font-bold">Sofas</h1>
@@ -242,7 +247,7 @@ function FurnitureSofas() {
         </div>
 
         {/* Desktop: Complex grid layout */}
-        <div className="hidden md:grid grid-cols-4 gap-6 auto-rows-[300px]">
+        <div className="hidden md:grid grid-cols-4 gap-6 auto-rows-[350px]">
           {dataToShow.length === 0 && (
             <p className="col-span-4 text-center text-gray-500">
               No products found
@@ -310,3 +315,4 @@ function FurnitureSofas() {
 }
 
 export default FurnitureSofas;
+

@@ -17,6 +17,7 @@ import AdminLayout from "../admin/layout/adminLayout";
 import CreateProduct from "../admin/pages/products";
 import PrivateRoot from "../admin/providers/private.root";
 import BedsDetail from "../user/components/bedsDetail";
+import ChairsDetail from "../user/components/chairsDetail";
 import Contact from "../user/pages/contact";
 import Delivery from "../user/pages/delivery";
 import ProductCare from "../user/pages/productCare";
@@ -29,7 +30,12 @@ import CartPage from "../user/pages/cartPage";
 import About from "../user/pages/about";
 import ProductPage from "../user/pages/productPage";
 import FindStore from "../user/pages/findStore";
-
+import ForgotPassword from "../user/pages/forgotPassword";
+import ResetPassword from "../user/pages/resetPassword";
+import DiningRooms from "../user/pages/diningRooms";
+import DiningRoomDetail from "../user/components/DiningRoomDetail";
+import FurnitureTables from "../user/pages/furnitureTables";
+import TablesDetail from "../user/components/tablesDetail";
 
 
 
@@ -63,6 +69,10 @@ export const route = createBrowserRouter([
                 path: "/furniture/chairs"
             },
             {
+                element: <ChairsDetail />,
+                path: "/chairsdetail/:id"
+            },
+            {
                 element: <ProductCardDetail />,
                 path: "/chairs/:id"
             },
@@ -73,6 +83,28 @@ export const route = createBrowserRouter([
             {
                 element: <BedsDetail />,
                 path: "/beds/:id"
+            },
+            {
+                element: <DiningRooms />,
+                path: "/furniture/dining-rooms"
+            },
+            {
+                element: <DiningRoomDetail />,
+                path: "/dining-rooms/:roomId"
+            },
+            ,
+            {
+                element: <FurnitureBeds />,
+                path: "/furniture/beds"
+            },
+            {
+                element: <FurnitureTables />,
+                path: "/furniture/tables"
+            },
+            ,
+            {
+                element: <TablesDetail />,
+                path: "/tablesdetail/:id"
             },
             {
                 element: <Contact />,
@@ -115,10 +147,9 @@ export const route = createBrowserRouter([
                 path: "/product/:id"
             },
             {
-                element: <FindStore />,
+                element: <FindStore/>,
                 path: "/findstore"
-            },
-
+            }
 
         ]
 
@@ -136,6 +167,16 @@ export const route = createBrowserRouter([
         element: <Navigate to="/not-found" />,
         path: "*",
     },
+
+    {
+        element: <ForgotPassword />,
+        path: "/forgot-password"
+    },
+    {
+        element: <ResetPassword />,
+        path: "/reset-password"
+    },
+
 
 
 

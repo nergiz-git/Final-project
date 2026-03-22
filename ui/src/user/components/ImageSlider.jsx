@@ -52,7 +52,6 @@ function ImageSlider({ images }) {
         ))}
       </div>
 
-      {/* arrows */}
       <button
         onClick={prev}
         className={`absolute w-[30px] h-[30px] pl-[6px] left-2 top-1/2 -translate-y-1/2 

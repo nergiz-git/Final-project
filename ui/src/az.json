@@ -73,6 +73,7 @@
     "nameRequired": "Ad hissəsi boş ola bilməz",
     "emailRequired": "Email hissəsi boş ola bilməz",
     "passwordRequired": "Şifrə hissəsi boş ola bilməz",
+    "forgot":"Şifrəni unutmusunuz?",
 
     "price": "Qiymət",
     "pageTitle": "Haqqımızda",

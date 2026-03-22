@@ -3,19 +3,24 @@ import "./Faq.css";
 import ScrollToTop from "react-scroll-to-top";
 import MainContext from "../context/context";
 import { useTranslation } from "react-i18next";
+import { Helmet } from "react-helmet";
 function Faq() {
-  useEffect(() => {
-    document.title = 'FAQ ';
-  }, []);
+  // useEffect(() => {
+  //   document.title = 'FAQ ';
+  // }, []);
   let { theme } = useContext(MainContext)
-    const { t } = useTranslation();
-     useEffect(() => {
-  document.body.className = theme ? "dark" : "";
-}, [theme]);
+  const { t } = useTranslation();
+  useEffect(() => {
+    document.body.className = theme ? "dark" : "";
+  }, [theme]);
 
 
   return (
     <div className={` ${theme ? "bg-dark" : "bg-light"}`}>
+      <Helmet>
+        <title>FAQ</title>
+        <link rel="icon" type="image/svg+xml" href="https://theelora.com/wp-content/uploads/2023/12/cropped-android-chrome-512x512-1-270x270.png" />
+      </Helmet>
       <div className="faq-header">
         <div className="container">
           <div className="faq-con-hed">
@@ -68,7 +73,7 @@ function Faq() {
               <i></i>
               <h2>{t("q4")}</h2>
               <p>
-               {t("a4")}
+                {t("a4")}
               </p>
             </li>
             <li>
@@ -76,7 +81,7 @@ function Faq() {
               <i></i>
               <h2>{t("q5")}</h2>
               <p>
-               {t("a5")}
+                {t("a5")}
               </p>
             </li>
             <li>
@@ -84,7 +89,7 @@ function Faq() {
               <i></i>
               <h2>{t("q6")}</h2>
               <p>
-               {t("a6")}
+                {t("a6")}
               </p>
             </li>
             <li>
@@ -92,7 +97,7 @@ function Faq() {
               <i></i>
               <h2>{t("q7")}</h2>
               <p>
-                 {t("a7")}
+                {t("a7")}
               </p>
             </li>
             <li>
@@ -100,7 +105,7 @@ function Faq() {
               <i></i>
               <h2>{t("q8")}</h2>
               <p>
-               {t("a8")}
+                {t("a8")}
               </p>
             </li>
             <li>
@@ -120,7 +125,7 @@ function Faq() {
               </p>
             </li>
 
-            
+
           </ul>
         </div>
       </div>

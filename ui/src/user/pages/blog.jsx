@@ -10,13 +10,14 @@ import "swiper/css/navigation";
 import MainContext from "../context/context";
 // import './styles.css';
 import { useTranslation } from 'react-i18next';
+import { Helmet } from "react-helmet";
 
 function Blog() {
-   let { theme } = useContext(MainContext);
-        const { t } = useTranslation();
-     useEffect(() => {
-  document.body.className = theme ? "dark" : "";
-}, [theme]);
+  let { theme } = useContext(MainContext);
+  const { t } = useTranslation();
+  useEffect(() => {
+    document.body.className = theme ? "dark" : "";
+  }, [theme]);
 
   const [data, setData] = useState([]);
   useEffect(() => {
@@ -33,6 +34,10 @@ function Blog() {
 
   return (
     <main className={` ${theme ? "bg-dark" : "bg-light"}`}>
+      <Helmet>
+        <title>Blog</title>
+        <link rel="icon" type="image/svg+xml" href="https://theelora.com/wp-content/uploads/2023/12/cropped-android-chrome-512x512-1-270x270.png" />
+      </Helmet>
       <section className="mainsec__header">
         <div className="container">
           <div className="whitebox__sec">
@@ -88,7 +93,7 @@ function Blog() {
      </div> */}
         </div>
 
-        <Swiper 
+        <Swiper
           // slidesPerView={1}
           spaceBetween={80}
           navigation={true}
@@ -96,7 +101,7 @@ function Blog() {
           className="mySwiper swiper__sec"
         >
           <SwiperSlide>
-            <div  className={` bigswiper__sec ${theme ? "bg-dark" : "bg-light"}`}>
+            <div className={` bigswiper__sec ${theme ? "bg-dark" : "bg-light"}`}>
               <div className="swiperimage__sec">
                 <img src="./src/assets/collection1.png" alt="" />
               </div>
@@ -122,7 +127,7 @@ function Blog() {
                 </p>
                 <button>{t("swiper.slide2.button")}</button>
                 <p>
-                 "{t("swiper.slide2.quote")}"
+                  "{t("swiper.slide2.quote")}"
                 </p>
                 <h4>{t("swiper.slide2.author")}</h4>
               </div>

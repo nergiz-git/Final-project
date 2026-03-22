@@ -73,7 +73,7 @@
     "nameRequired": "Name field cannot be empty",
     "emailRequired": "Email field cannot be empty",
     "passwordRequired": "Password field cannot be empty",
-
+     "forgot": "Forgot password?",
     "price": "Price",
 
 

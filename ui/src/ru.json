@@ -73,6 +73,7 @@
     "nameRequired": "Поле имени не может быть пустым",
     "emailRequired": "Поле email не может быть пустым",
     "passwordRequired": "Поле пароля не может быть пустым",
+    "forgot": "Забыли пароль?",
 
     "price": "Цена",
     "pageTitle": "О нас",

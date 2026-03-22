@@ -7,6 +7,7 @@ import ContactSection from '../components/contactSection';
 import TextSection from '../components/textSection';
 import Service from '../components/service';
 import MainContext from '../context/context';
+import { Helmet } from 'react-helmet';
 function Contact() {
   useEffect(() => {
     document.title = 'Contact';
@@ -19,6 +20,10 @@ function Contact() {
 }, [theme]);
   return(
     <div className={` ${theme ? "bg-dark" : "bg-light"}`}>
+      <Helmet>
+        <title>Contact</title>
+        <link rel="icon" type="image/svg+xml" href="https://theelora.com/wp-content/uploads/2023/12/cropped-android-chrome-512x512-1-270x270.png" />
+      </Helmet>
     <div className="app">
       <ScrollToTop smooth top="20" width="20" height="20" color="#fff"/>
 

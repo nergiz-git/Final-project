@@ -1,0 +1,84 @@
+import { useEffect, useState } from "react";
+import { RouterProvider } from "react-router-dom";
+import MainContext from "../src/user/context/context"
+import { route } from "./routes/router";
+import './i18n';
+import { connect } from "react-redux";
+
+function App({ dispatch }) {
+  const [theme, setTheme] = useState(false);
+  
+  useEffect(() => {
+    const mode = localStorage.getItem("theme");
+    if (mode === "dark") {
+      setTheme(true);
+    }
+  }, []);
+
+//   useEffect(() => {
+    
+//     fetch(`http://localhost:3002/collection`)
+//       .then((response) => response.json())
+//       .then((json) => {
+//         dispatch({
+//           type: "SET_PRODUCTS",
+//           payload: json,
+//         });
+//       });
+
+
+//     fetch(`http://localhost:3002/sofaproducts`)
+//       .then((response) => response.json())
+//       .then((json) => {
+//         dispatch({
+//           type: "SET_SOFAS",
+//           payload: json,
+//         });
+//       });
+//   }, [dispatch]);
+
+  
+// fetch("http://localhost:3002/chairs")
+//   .then(res => res.json())
+//   .then(data => dispatch({ type: "SET_CHAIRS", payload: data }));
+
+//   fetch("http://localhost:3002/tables")
+//   .then(res => res.json())
+//   .then(data => dispatch({ type: "SET_TABLES", payload: data }));
+
+//   fetch("http://localhost:3002/beds")
+//   .then(res => res.json())
+//   .then(data => dispatch({ type: "SET_BEDS", payload: data }));
+  
+
+useEffect(() => {
+  fetch(`http://localhost:3002/collection`)
+    .then(res => res.json())
+    .then(json => dispatch({ type: "SET_PRODUCTS", payload: json }));
+
+  fetch(`http://localhost:3002/sofaproducts`)
+    .then(res => res.json())
+    .then(json => dispatch({ type: "SET_SOFAS", payload: json }));
+
+  fetch("http://localhost:3002/chairs")
+    .then(res => res.json())
+    .then(data => dispatch({ type: "SET_CHAIRS", payload: json }));
+
+  fetch("http://localhost:3002/tables")
+    .then(res => res.json())
+    .then(data => dispatch({ type: "SET_TABLES", payload: json }));
+
+  fetch("http://localhost:3002/beds")
+    .then(res => res.json())
+    .then(data => dispatch({ type: "SET_BEDS", payload: json }));
+
+}, [dispatch]);
+  return (
+    <MainContext.Provider value={{ theme, setTheme }}>
+      <RouterProvider router={route} />
+    
+    </MainContext.Provider>
+  );
+}
+
+export default connect()(App);

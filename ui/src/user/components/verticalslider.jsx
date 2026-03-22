@@ -13,7 +13,7 @@ export default function VerticalSlider({ items, slidesPerView = 3, height = "500
       direction="vertical"
       slidesPerView={slidesPerView}
       spaceBetween={3}
-      style={{ height:"220px" }}
+      style={{ height:"320px" }}
     >
       {items.map(item => (
         <SwiperSlide key={item.id}>

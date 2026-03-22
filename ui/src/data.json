@@ -11,7 +11,9 @@
           "https://embawood.az/image/cache/catalog/Sofa%20set/Nelson/embawood_yumsaq_mebel_desti_kunc_divani_acilan_qehveyi_paxlava_taxta_ayaqli_kreslo_yataq_yastiq_5-900x600.jpg",
           "https://embawood.az/image/cache/catalog/Sofa%20set/Nelson/embawood_yumsaq_mebel_desti_kunc_divani_acilan_qehveyi_paxlava_taxta_ayaqli_kreslo_yataq_yastiq_8-900x600.jpg"
         ],
-        "category": "Sofas"
+        "category": "Sofas",
+        "discounted": true,
+       "rating": 4
       },
       {
         "id": 46,
@@ -25,7 +27,8 @@
           "https://embawood.az/image/cache/catalog/Yum%C5%9Faq%20mebel/Solo%20dest/IMG_6989-900x600.jpg",
           "https://embawood.az/image/cache/catalog/Yum%C5%9Faq%20mebel/Solo%20dest/IMG_6951-900x600.jpg"
         ],
-        "category": "Sofas"
+        "category": "Sofas",
+        "discounted": false
       },
       {
         "id": 47,
@@ -39,7 +42,8 @@
           "https://embawood.az/image/cache/catalog/Yum%C5%9Faq%20mebel/Acelya%20goy/_MG_8332a-900x600.jpg",
           "https://embawood.az/image/cache/catalog/Yum%C5%9Faq%20mebel/Acelya%20goy/_MG_8332a-900x600.jpg"
         ],
-        "category": "Sofas"
+        "category": "Sofas",
+        "discounted": true
       },
       {
         "id": 48,
@@ -53,7 +57,8 @@
           "https://embawood.az/image/cache/catalog/Sofa%20set/Vivaldi/embawood_yumsaq_mebeli_desti_divan_kreslo_uc_yerli_22-900x600.jpg",
           "https://embawood.az/image/cache/catalog/Sofa%20set/Vivaldi/embawood_yumsaq_mebeli_desti_divan_kreslo_uc_yerli_11-900x600.jpg"
         ],
-        "category": "Sofas"
+        "category": "Sofas",
+          "discounted": false
       },
       {
         "id": 49,
@@ -67,7 +72,8 @@
           "https://embawood.az/image/cache/catalog/Sofa%20set/Hisar/embawood_qonaq_otagi_mebeli_hisar_kunc_divani_kreslo_yumsaq_mebeli_desti_qehveyi_kofe_reng_7-900x600.jpg",
           "https://embawood.az/image/cache/catalog/Sofa%20set/Hisar/embawood_qonaq_otagi_mebeli_hisar_kunc_divani_kreslo_yumsaq_mebeli_desti_qehveyi_kofe_reng_4-900x600.jpg"
         ],
-        "category": "Sofas"
+        "category": "Sofas",
+        "discounted": true
       },
       {
         "id": 50,
@@ -81,7 +87,8 @@
           "https://embawood.az/image/cache/catalog/Yum%C5%9Faq%20mebel/Rio%20/IMG_2322-900x600.jpg",
           "https://embawood.az/image/cache/catalog/Yum%C5%9Faq%20mebel/Rio%20/IMG_0004_1%20copy-900x600.jpg"
         ],
-        "category": "Sofas"
+        "category": "Sofas",
+          "discounted": false
       },
       {
         "id": 51,
@@ -95,7 +102,8 @@
           "https://embawood.az/image/cache/catalog/Sofa%20set/Torino/torino_divan_desti_mebeli_acilan_3_uc_yerli_1-900x600.jpg",
           "https://embawood.az/image/cache/catalog/Sofa%20set/Torino/torino_divan_desti_mebeli_acilan_3_uc_yerli_4-900x600.jpg"
         ],
-        "category": "Sofas"
+        "category": "Sofas",
+        "discounted": true
       },
       {
         "id": 52,
@@ -109,7 +117,8 @@
           "https://embawood.az/image/cache/catalog/Sofa%20set/Rosaline/embawood_acilan_yataq_divan_yumsaq_mebel_destleri_desti_mebel_divan_kreslo_acilan_yataq_divan_1-900x600.jpg",
           "https://embawood.az/image/cache/catalog/Sofa%20set/Rosaline/embawood_acilan_yataq_divan_yumsaq_mebel_destleri_desti_mebel_divan_kreslo_20-900x600.jpg"
         ],
-        "category": "Sofas"
+        "category": "Sofas",
+          "discounted": false
       },
       {
         "id": 53,
@@ -123,7 +132,8 @@
           "https://embawood.az/image/cache/catalog/Sofa%20set/Hermes/embawood_yumsaq_mebel_qonaq_destleri_hermes_divan_kunc_acilan_kreslo_boz_grey_6-900x600.jpg",
           "https://embawood.az/image/cache/catalog/Sofa%20set/Hermes/embawood_yumsaq_mebel_qonaq_destleri_hermes_divan_kunc_acilan_kreslo_boz_grey_813-900x600.jpg"
         ],
-        "category": "Sofas"
+        "category": "Sofas",
+        "discounted": true
       },
       {
         "id": 54,
@@ -137,7 +147,8 @@
           "https://embawood.az/image/cache/catalog/Yum%C5%9Faq%20mebel/Novella%20crem/_MG_9985-900x600.jpg",
           "https://embawood.az/image/cache/catalog/Yum%C5%9Faq%20mebel/Novella%20crem/_MG_9936-900x600.jpg"
         ],
-        "category": "Sofas"
+        "category": "Sofas",
+          "discounted": false
       },
       {
         "id": 55,
@@ -150,7 +161,8 @@
           "https://embawood.az/image/cache/catalog/Yum%C5%9Faq%20mebel/Rubi%20/_MG_9806-900x600.jpg",
           "https://embawood.az/image/cache/catalog/Yum%C5%9Faq%20mebel/Rubi%20/_MG_9809-900x600.jpg"
         ],
-        "category": "Sofas"
+        "category": "Sofas",
+        "discounted": true
       },
       {
         "id": 56,
@@ -164,7 +176,8 @@
           "https://embawood.az/image/cache/catalog/Sofa%20set/Delfin/embawood_delfin_kunc_%20mebeli_desti_acilan_yumsaq_mebeller_rahat_cream_qehveyi_qutulu_1-900x600.jpg",
           "https://embawood.az/image/cache/catalog/Sofa%20set/Delfin/embawood_delfin_kunc_%20mebeli_desti_acilan_yumsaq_mebeller_rahat_cream_qehveyi_qutulu_5-900x600.jpg"
         ],
-        "category": "Sofas"
+        "category": "Sofas",
+          "discounted": false
       },
       {
         "id": 57,
@@ -178,7 +191,8 @@
           "https://embawood.az/image/cache/catalog/Sofa%20set/Lena/embawood_brendi_lena_yumsaq_desti_mebeli_kreslo_divan_3_yerli_boz_modern_yeni_qizili_acilan_17-900x600.jpg",
           "https://embawood.az/image/cache/catalog/Sofa%20set/Lena/embawood_brendi_lena_yumsaq_desti_mebeli_kreslo_divan_3_yerli_boz_modern_yeni_qizili_acilan_118-900x600.jpg"
         ],
-        "category": "Chairs"
+        "category": "Chairs",
+        "discounted": true
       },
       {
         "id": 58,
@@ -192,7 +206,8 @@
           "https://embawood.az/image/cache/catalog/Sofa%20set/Vivaldi/embawood_yumsaq_mebeli_desti_divan_kreslo_uc_yerli_11-900x600.jpg",
           "https://embawood.az/image/cache/catalog/Sofa%20set/Vivaldi/embawood_yumsaq_mebeli_desti_divan_kreslo_uc_yerli_24-900x600.jpg"
         ],
-        "category": "Chairs"
+        "category": "Chairs",
+          "discounted": false
       },
       {
         "id": 59,
@@ -206,7 +221,8 @@
           "https://embawood.az/image/cache/catalog/Sofa%20set/LizboN/embawood_embavood_embavud_divan_lizbon_uc_yerli_yumsaq_desti_mebeli_qehveyi_acilan_butun_mebeller_yataq_qonaq_lizbon_3-900x600.jpg",
           "https://embawood.az/image/cache/catalog/Sofa%20set/LizboN/embawood_embavood_embavud_divan_lizbon_uc_yerli_yumsaq_desti_mebeli_qehveyi_acilan_butun_mebeller_yataq_qonaq_lizbon_6-900x600.jpg"
         ],
-        "category": "Chairs"
+        "category": "Chairs",
+        "discounted": true
       },
       {
         "id": 60,
@@ -220,7 +236,8 @@
           "https://embawood.az/image/cache/catalog/Yum%C5%9Faq%20mebel/Solo%20dest/IMG_7013-900x600.jpg",
           "https://embawood.az/image/cache/catalog/Yum%C5%9Faq%20mebel/Solo%20dest/IMG_6982-900x600.jpg"
         ],
-        "category": "Chairs"
+        "category": "Chairs",
+          "discounted": false
       },
       {
         "id": 61,
@@ -234,7 +251,8 @@
           "https://embawood.az/image/cache/catalog/Yum%C5%9Faq%20mebel/Palmira/_C3A2227-900x600.jpg",
           "https://embawood.az/image/cache/catalog/Yum%C5%9Faq%20mebel/Palmira/_C3A2229-900x600.jpg"
         ],
-        "category": "Chairs"
+        "category": "Chairs",
+        "discounted": true
       },
       {
         "id": 63,
@@ -248,7 +266,8 @@
           "https://embawood.az/image/cache/catalog/Yum%C5%9Faq%20mebel/Toronto/_MG_2419ab-900x600.jpg",
           "https://embawood.az/image/cache/catalog/Yum%C5%9Faq%20mebel/Toronto/_MG_2524-900x600.jpg"
         ],
-        "category": "Chairs"
+        "category": "Chairs",
+          "discounted": false
       },
       {
         "id": 64,
@@ -262,7 +281,9 @@
           "https://embawood.az/image/cache/catalog/Yum%C5%9Faq%20mebel/Garsiya/_MG_9600-900x600.jpg",
           "https://embawood.az/image/cache/catalog/Yum%C5%9Faq%20mebel/Garsiya/_MG_9556-900x600.jpg"
         ],
-        "category": "Chairs"
+        "category": "Chairs",
+        "discounted": true
+        
       },
       {
         "id": 1,
@@ -276,7 +297,8 @@
           "https://embawood.az/image/cache/catalog/Bedroom/California/California-dolab-900x600.jpg",
           "https://embawood.az/image/cache/catalog/Bedroom/California/Colifornia-yataq_Kamod-900x600.jpg"
         ],
-        "category": "bedroom furniture"
+        "category": "bedroom furniture",
+          "discounted": false
       },
       {
         "id": 2,
@@ -290,7 +312,8 @@
           "https://embawood.az/image/cache/catalog/Toskana%20dest/Toskana%20yataq/toskana-10-900x600.jpg",
           "https://embawood.az/image/cache/catalog/Toskana%20dest/Toskana%20yataq/toskana-12-900x600.jpg"
         ],
-        "category": "bedroom furniture"
+        "category": "bedroom furniture",
+        "discounted": true
       },
       {
         "id": 3,
@@ -304,7 +327,8 @@
           "https://embawood.az/image/cache/catalog/Yataq%20mebeli/Nirvana/nirvana-14-900x600.jpg",
           "https://embawood.az/image/cache/catalog/Yataq%20mebeli/Nirvana/nirvana-9%20-%20Copy-900x600.jpg"
         ],
-        "category": "Bedroom furniture"
+        "category": "Bedroom furniture",
+          "discounted": false
       },
       {
         "id": 4,
@@ -318,7 +342,8 @@
           "https://embawood.az/image/cache/catalog/Bedroom/Yildiz/embawood_yataq_desti_mebeli_carpayi_divan_kamod_komod_guzgu_paltar_dolabi_qapili_tumba_parca_basliqli_ag_boz_sandiqli_16-900x600.jpg",
           "https://embawood.az/image/cache/catalog/Bedroom/Yildiz/embawood_yataq_desti_mebeli_carpayi_divan_kamod_komod_guzgu_paltar_dolabi_qapili_tumba_parca_basliqli_ag_boz_sandiqli_3-900x600.jpg"
         ],
-        "category": "Bedroom furniture"
+        "category": "Bedroom furniture",
+        "discounted": true
       },
       {
         "id": 5,
@@ -332,7 +357,8 @@
           "https://embawood.az/image/cache/catalog/Bedroom/Arizona/Embawood_arizona_yataq_mebeli_desti_carpayi_tumba_1-900x600.jpg",
           "https://embawood.az/image/cache/catalog/Bedroom/Arizona/Embawood_arizona_yataq_mebeli_desti_komod_guzgu_kamod_1-900x600.jpg"
         ],
-        "category": "Bedroom furniture"
+        "category": "Bedroom furniture",
+          "discounted": false
       },
     
       {
@@ -347,7 +373,8 @@
           "https://embawood.az/image/cache/catalog/Bedroom/Florida/embawood_florida_yataq_mebeli_desti_carpayi_mebelleri_dolab_6_qapili_tumba_kamod_komod_guzgu_grey_online_al_sifaris_et_qonaq_yumsaq_1-900x600.jpg",
           "https://embawood.az/image/cache/catalog/Bedroom/Florida/embawood_florida_yataq_mebeli_desti_carpayi_mebelleri_dolab_6_qapili_tumba_kamod_komod_guzgu_grey_online_al_sifaris_et_qonaq_yumsaq_27-900x600.jpg"
         ],
-        "category": "Bedroom furniture"
+        "category": "Bedroom furniture",
+        "discounted": true
       },
       {
         "id": 7,
@@ -361,7 +388,8 @@
           "https://embawood.az/image/cache/catalog/Bedroom/Vivaldi/embawood_yataq_desti_mebelleri_carpayi_kravat_skaf_paltar%20dolabi_tumba_kamod_komod_dolab_14-900x600.jpg",
           "https://embawood.az/image/cache/catalog/Bedroom/Vivaldi/embawood_yataq_desti_mebelleri_carpayi_kravat_skaf_paltar%20dolabi_tumba_kamod_komod_dolab_20-900x600.jpg"
         ],
-        "category": "Yataq Mebeli"
+        "category": "Yataq Mebeli",
+          "discounted": false
       },
       {
         "id": 8,
@@ -375,7 +403,8 @@
           "https://embawood.az/image/cache/catalog/Bedroom/Richmond%20white/embawood_richmond_ag_white_yataq_mebeli_desti_komod_kamod_guzgu_puf_pufik_3-900x600.jpg",
           "https://embawood.az/image/cache/catalog/Bedroom/Richmond%20white/embawood_richmond_ag_white_yataq_mebeli_desti_komod_kamod_guzgu_2-900x600.jpg"
         ],
-        "category": "Bedroom furniture"
+        "category": "Bedroom furniture",
+        "discounted": true
       },
       {
         "id": 9,
@@ -389,7 +418,8 @@
           "https://embawood.az/image/cache/catalog/Bedroom/Verona/verona_embawood_mebel_yataq_desti_carpayi_tumba_kamod_komod_guzgu_paltar_dolabi_12-900x600.jpg",
           "https://embawood.az/image/cache/catalog/Bedroom/Verona/verona_embawood_mebel_yataq_desti_carpayi_tumba_kamod_komod_guzgu_paltar_dolabi_5-900x600.jpg"
         ],
-        "category": "Bedroom furniture"
+        "category": "Bedroom furniture",
+          "discounted": false
       },
       {
         "id": 10,
@@ -403,7 +433,8 @@
           "https://embawood.az/image/cache/catalog/Fenomen%20dest/Fenomen%20yataq/_C3A1160-900x600.jpg",
           "https://embawood.az/image/cache/catalog/Fenomen%20dest/Fenomen%20yataq/_C3A1351-900x600.jpg"
         ],
-        "category": "Bedroom furniture"
+        "category": "Bedroom furniture",
+        "discounted": true
       },
    
       {
@@ -642,8 +673,8 @@
       {
         "id": 29,
         "name": "Enigma Guide set",
-        "price": 3300,
-        "prevprice": 3500,
+        "price": 6300,
+        "prevprice": 6500,
         "images": [
         "https://supremebel.az/wp-content/uploads/2018/09/Group1.jpeg" 
         ],
@@ -665,11 +696,12 @@
         "price": 1075,
         "prevprice": 1200,
         "images": [
-          "https://perla.az/imageg_700_700_katalog_855_1.jpg_katalog_40.jpg",
-          "https://perla.az/imageg_700_700_katalog_855_3.jpg_katalog_40.jpg",
-          "https://perla.az/imageg_700_700_katalog_855_4.jpg_katalog_40.jpg",
-          "https://perla.az/imageg_700_700_katalog_855_5.jpg_katalog_40.jpg",
-          "https://perla.az/imageg_700_700_katalog_855_2.jpg_katalog_40.jpg"
+          "https://perla.az/image_1200_650_items/5688_1.jpeg.webp",
+          "https://perla.az/image_1200_650_items/5688_2.jpeg.webp",
+          "https://perla.az/image_1200_650_items/56883.jpeg.webp",
+          "https://perla.az/image_1200_650_items/56884.jpeg.webp",
+          "https://perla.az/image_1200_650_items/56885.jpeg.webp",
+          "https://perla.az/image_1200_650_items/56886.jpeg.webp"
         ],
         "category": "Child and Young"
       },
@@ -679,11 +711,12 @@
         "price": 1746,
         "prevprice": 1900,
         "images": [
-          "https://perla.az/imageg_700_700_katalog_779_1.jpg_katalog_40.jpg",
-          "https://perla.az/imageg_700_700_katalog_779_2.jpg_katalog_40.jpg",
-          "https://perla.az/imageg_700_700_katalog_779_3.jpg_katalog_40.jpg",
-          "https://perla.az/imageg_700_700_katalog_779_4.jpg_katalog_40.jpg",
-          "https://perla.az/imageg_700_700_katalog_779_5.jpg_katalog_40.jpg"
+          "https://perla.az/image_1200_650_items/6337_1.jpg.webp",
+          "https://perla.az/image_1200_650_items/6337_2.jpg.webp",
+          "https://perla.az/image_1200_650_items/63373.jpg.webp",
+          "https://perla.az/image_1200_650_items/63374.jpg.webp",
+          "https://perla.az/image_1200_650_items/63375.jpg.webp",
+          "https://perla.az/image_1200_650_items/63376.jpg.webp"
         ],
         "category": "Child and Young"
       },
@@ -693,11 +726,12 @@
         "price": 400,
         "prevprice": 500,
         "images": [
-          "https://perla.az/imageg_700_700_katalog_423_1.jpg_katalog_40.jpg",
-          "https://perla.az/imageg_700_700_katalog_423_2.jpg_katalog_40.jpg",
-          "https://perla.az/imageg_700_700_katalog_423_3.jpg_katalog_40.jpg",
-          "https://perla.az/imageg_700_700_katalog_423_4.jpg_katalog_40.jpg",
-          "https://perla.az/imageg_700_700_katalog_423_5.jpg_katalog_40.jpg"
+          "https://perla.az/image_1200_650_items/6614_1.jpeg.webp",
+          "https://perla.az/image_1200_650_items/6608_2.jpeg.webp",
+          "https://perla.az/image_1200_650_items/66083.jpeg.webp",
+          "https://perla.az/image_1200_650_items/66084.jpeg.webp",
+          "https://perla.az/image_1200_650_items/66085.jpeg.webp",
+          "https://perla.az/image_1200_650_items/66086.jpeg.webp"
         ],
         "category": "Child and Young"
       },
@@ -707,11 +741,13 @@
         "price": 420,
         "prevprice": 500,
         "images": [
-          "https://perla.az/imageg_700_700_katalog_417_1.jpg_katalog_40.jpg",
-          "https://perla.az/imageg_700_700_katalog_417_2.jpg_katalog_40.jpg",
-          "https://perla.az/imageg_700_700_katalog_417_4.jpg_katalog_40.jpg",
-          "https://perla.az/imageg_700_700_katalog_417_5.jpg_katalog_40.jpg",
-          "https://perla.az/imageg_700_700_katalog_417_3.jpg_katalog_40.jpg"
+          "https://perla.az/image_1200_650_items/8076_1.jpg.webp",
+          "https://perla.az/image_1200_650_items/8075_2.jpg.webp",
+          "https://perla.az/image_1200_650_items/80753.jpg.webp",
+          "https://perla.az/image_1200_650_items/80754.jpg.webp",
+          "https://perla.az/image_1200_650_items/80755.jpg.webp",
+          "https://perla.az/image_1200_650_items/80756.jpg.webp",
+          "https://perla.az/image_1200_650_items/80757.jpg.webp"
         ],
         "category": "Child and Young"
       },
@@ -738,11 +774,13 @@
         "price": 1219,
         "prevprice": 1400,
         "images": [
-          "https://madeyra.com/image/cache/catalog/Melodiya/_MG_2534-1067x600.webp",
-          "https://madeyra.com/image/cache/catalog/Melodiya/_MG_2558-1067x600.webp",
-          "https://madeyra.com/image/cache/catalog/Melodiya/_MG_2564-1067x600.webp",
-          "https://madeyra.com/image/cache/catalog/Melodiya/_MG_2547-1067x600.webp",
-          "https://madeyra.com/image/cache/catalog/melodiya%20g%C9%99nc/5265-1067x600.webp"
+          "https://admin.madeyra.com/storage/images/products/kCeFG5yjjLKZgQz33Mk1N0RHAtH3tPwRpfd8ISIG.jpg",
+          "https://admin.madeyra.com/storage/images/products/ivgyE2hX7V0PeBqxtq06M5I3RUtLhlG3cLU0Ktxh.jpg",
+          "https://admin.madeyra.com/storage/images/products/0O6XFkYNITgGwSc3O2Fa4x5myfzzQgfJUDf2TY2r.jpg",
+          "https://admin.madeyra.com/storage/images/products/l69tgtOCtCnfSoT96jw2p5QRT73lMlsUGlI4OC7j.jpg",
+          "https://admin.madeyra.com/storage/images/products/KWrOMP6lJ1K0Yt2oaiM8byfmVyvpfWvkuUpOynyk.jpg",
+          "https://admin.madeyra.com/storage/images/products/AaUGoDpa3jJlGiegNN0ENNBS7Gn0jkhB28xaUa5m.jpg",
+          "https://admin.madeyra.com/storage/images/products/o6a2bzygDBEO0tlNEDDsaPommeZ7Q4Shn3DqQy0C.jpg"
         ],
         "category": "Child and Young"
       },
@@ -752,11 +790,12 @@
         "price": 1340,
         "prevprice": 1500,
         "images": [
-          "https://madeyra.com/image/cache/catalog/roman%20u%C5%9Faq/_MG_2688-1067x600.webp",
-          "https://madeyra.com/image/cache/catalog/roman%20u%C5%9Faq/2664-1067x600.webp",
-          "https://madeyra.com/image/cache/catalog/roman%20u%C5%9Faq/_MG_2691-1067x600.webp",
-          "https://madeyra.com/image/cache/catalog/roman%20u%C5%9Faq/_MG_2722-1067x600.webp",
-          "https://madeyra.com/image/cache/catalog/roman%20u%C5%9Faq/3382_n0PVnGC-1067x600.webp"
+        "https://admin.madeyra.com/storage/images/products/VaQAgrrEGdypSHIFB5EaamXaJ4rliQJLCf345HbC.jpg",
+        "https://admin.madeyra.com/storage/images/products/KLm4ySss3s92QRNnixfAS1VRLe8gZy5QuDggvb6q.jpg",
+        "https://admin.madeyra.com/storage/images/products/chtf5p5B628CT0uPGoeNC4l79vDi7MdmYgPDMHQ9.jpg",
+        "https://admin.madeyra.com/storage/images/products/QCQIYv8gEf0v74hoQBtQanAH155yiGnLGWGoJIcf.jpg",
+        "https://admin.madeyra.com/storage/images/products/YajJiGUlU79bpNfUKYu43KCtMKliSKMmYPhKy7Fo.jpg",
+        "https://admin.madeyra.com/storage/images/products/W6M7sASyl0mkNc91GTzvpNLoi2F0PDG1JuXaY9Sl.jpg"
         ],
         "category": "Child and Young"
       },
@@ -766,11 +805,11 @@
         "price": 1106,
         "prevprice": 1300,
         "images": [
-          "https://madeyra.com/image/cache/catalog/Child-Young/Royal/madeyra_genc_royal_usaq_yataq_desti_carpayi_paltar_dolab_tumba_yazi_komputer_masa_12-1067x600.webp",
-          "https://madeyra.com/image/cache/catalog/Child-Young/Royal/madeyra_genc_royal_usaq_yataq_desti_carpayi_paltar_dolab_tumba_yazi_komputer_masa_11-1067x600.webp",
-          "https://madeyra.com/image/cache/catalog/Child-Young/Royal/madeyra_genc_royal_usaq_yataq_desti_carpayi_paltar_dolab_tumba_yazi_komputer_masa_14-1067x600.webp",
-          "https://madeyra.com/image/cache/catalog/Child-Young/Royal/madeyra_genc_royal_usaq_yataq_desti_carpayi_paltar_dolab_tumba_yazi_komputer_masa_13-1067x600.webp",
-          "https://madeyra.com/image/cache/catalog/Child-Young/Royal/madeyra_genc_royal_usaq_yataq_desti_carpayi_paltar_dolab_tumba_yazi_komputer_masa_15-1067x600.webp"
+        "https://admin.madeyra.com/storage/images/products/i29rcQhJ9YjNpBIcLJAKyIpuNJlI6QxFHZqznDN7.jpg",
+        "https://admin.madeyra.com/storage/images/products/ac4GcEjqgHd9FsXgys1AMrMGwsnE0WPVVdyN9Zhp.jpg",
+        "https://admin.madeyra.com/storage/images/products/99jhU8nQR9NtGhcKu8z9MP9BMgt0C5tK0dIzLCQ7.jpg",
+        "https://admin.madeyra.com/storage/images/products/NsiER4q0wt4KVXdcnR2JHpN5uvDMYBX825WihNDZ.jpg",
+        "https://admin.madeyra.com/storage/images/products/hODQDfuydqf8qHYPgkat0qDThXMQPh1twWZOCUSo.jpg"
         ],
         "category": "Child and Young"
       },
@@ -780,11 +819,13 @@
         "price": 1363,
         "prevprice": 1400,
         "images": [
-          "https://madeyra.com/image/cache/catalog/Child-Young/Luna/Luna%20goy%20W900/madeyra_genc_luna_usaq_yataq_desti_carpayi_paltar_dolabi_tumba_yazi_komputer_masa_goy1-1067x600.webp",
-          "https://madeyra.com/image/cache/catalog/Child-Young/Luna/Luna%20goy%20W900/madeyra_genc_luna_usaq_yataq_desti_carpayi_paltar_dolab_tumba_yazi_komputer_masa_goy10-1067x600.webp",
-          "https://madeyra.com/image/cache/catalog/Child-Young/Luna/Luna%20goy%20W900/madeyra_genc_luna_usaq_yataq_desti_carpayi_paltar_dolabi_tumba_yazi_komputer_masa_goy4-1067x600.webp",
-          "https://madeyra.com/image/cache/catalog/Child-Young/Luna/Luna%20goy%20W900/madeyra_genc_luna_usaq_yataq_desti_carpayi_paltar_dolabi_tumba_yazi_komputer_masa_goy3-1067x600.webp",
-          "https://madeyra.com/image/cache/catalog/Child-Young/Luna/Luna%20goy%20W900/madeyra_genc_luna_usaq_yataq_desti_carpayi_paltar_dolabi_tumba_yazi_komputer_masa_goy2-1067x600.webp"
+          "https://perla.az/image_1200_650_items/8071_1.jpg.webp",
+          "https://perla.az/image_1200_650_items/8071_2.jpg.webp",
+          "https://perla.az/image_1200_650_items/80713.jpg.webp",
+          "https://perla.az/image_1200_650_items/80714.jpg.webp",
+          "https://perla.az/image_1200_650_items/80715.jpg.webp",
+          "https://perla.az/image_1200_650_items/80716.jpg.webp",
+          "https://perla.az/image_1200_650_items/80717.jpg.webp"
         ],
         "category": "Child and Young"
       },
@@ -794,11 +835,12 @@
         "price": 4000,
         "prevprice": 5500,
         "images": [
-          "https://madeyra.com/image/cache/catalog/greystone/3805-1067x600.webp",
-          "https://madeyra.com/image/cache/catalog/greystone/3811-1067x600.webp",
-          "https://madeyra.com/image/cache/catalog/greystone/3925-1067x600.webp",
-          "https://madeyra.com/image/cache/catalog/greystone/3989-1067x600.webp",
-          "https://madeyra.com/image/cache/catalog/greystone/3879-1067x600.webp"
+          "https://perla.az/image_1200_650_items/8068_1.jpg.webp",
+          "https://perla.az/image_1200_650_items/8063_2.jpg.webp",
+          "https://perla.az/image_1200_650_items/80633.jpg.webp",
+          "https://perla.az/image_1200_650_items/80634.jpg.webp",
+          "https://perla.az/image_1200_650_items/80635.jpg.webp",
+          "https://perla.az/image_1200_650_items/80636.jpg.webp"
         ],
         "category": "Child and Young"
       },
@@ -808,11 +850,12 @@
         "price": 1000,
         "prevprice": 1200,
         "images": [
-          "https://madeyra.com/image/cache/catalog/fiona%20genc%20desti/0369-1067x600.webp",
-          "https://madeyra.com/image/cache/catalog/fiona%20genc%20desti/0394-1067x600.webp",
-          "https://madeyra.com/image/cache/catalog/fiona%20genc%20desti/0382-1067x600.webp",
-          "https://madeyra.com/image/cache/catalog/fiona%20genc%20desti/0467-1067x600.webp",
-          "https://madeyra.com/image/cache/catalog/fiona%20genc%20desti/0440-1067x600.webp"
+          "https://perla.az/image_1200_650_items/7476_1.jpg.webp",
+          "https://perla.az/image_1200_650_items/7476_2.jpg.webp",
+          "https://perla.az/image_1200_650_items/74763.jpg.webp",
+          "https://perla.az/image_1200_650_items/74764.jpg.webp",
+          "https://perla.az/image_1200_650_items/74765.jpg.webp",
+          "https://perla.az/image_1200_650_items/74766.jpg.webp"
         ],
         "category": "Child and Young"
       },
@@ -822,11 +865,11 @@
         "price": 1190,
         "prevprice": 1300,
         "images": [
-          "https://madeyra.com/image/cache/catalog/Greys%20g%C9%99nc%20d%C9%99sti/d%C9%99st%202-1067x600.webp",
-          "https://madeyra.com/image/cache/catalog/Greys%20g%C9%99nc%20d%C9%99sti/arpay%C4%B1%202-1067x600.webp",
-          "https://madeyra.com/image/cache/catalog/Greys%20g%C9%99nc%20d%C9%99sti/tumba-1067x600.webp",
-          "https://madeyra.com/image/cache/catalog/Greys%20g%C9%99nc%20d%C9%99sti/dolab%201-1067x600.webp",
-          "https://madeyra.com/image/cache/catalog/Greys%20g%C9%99nc%20d%C9%99sti/dolab%20i%C3%A7%20gor%C3%BCnt%C3%BCs%C3%BC-1067x600.webp"
+          "https://perla.az/image_1200_650_items/874_1.jpg.webp",
+          "https://perla.az/image_1200_650_items/874_2.jpg.webp",
+          "https://perla.az/image_1200_650_items/8743.jpg.webp",
+          "https://perla.az/image_1200_650_items/8744.jpg.webp",
+          "https://perla.az/image_1200_650_items/8745.jpg.webp"
         ],
         "category": "Child and Young"
       },
@@ -927,19 +970,5 @@
           "https://embawood.az/image/cache/catalog/Child-Young/Sunrise/embawood_sunrise_ushaq_genc_mebeli_tumba_carpayi_yazi_masasi_komputer_stolu_paltar_dolabi_15-900x600.jpg"
         ],
         "category": "Closet"
-      }, 
-       {
-      "id": 71,
-      "images": [
-        "https://assets.boconcept.com/9b0069f9-e8fb-41e8-9bde-b2fb004b6a6c/2801414_PNG-Web%2072dpi.png?format=webply&fit=bounds&width=768&quality=75",
-        "https://assets.boconcept.com/09e95124-b911-47a8-91fc-b2fb004b6d7f/2801412_PNG-Web%2072dpi.png?format=webply&fit=bounds&width=768&quality=75",
-        "https://assets.boconcept.com/6abf9b5b-6a78-4ccf-819b-b2fb004b74c2/2801413_PNG-Web%2072dpi.png?format=webply&fit=bounds&width=768&quality=75",
-        "https://assets.boconcept.com/897f0991-5d20-4c96-9f60-b2fb004b62dc/2801415_PNG-Web%2072dpi.png?format=webply&fit=bounds&width=768&quality=75"
-      ],
-      "name": "Aarhus sofa with chaise longue right",
-      "price": 6918.15,
-      "prevrice": 8139.00,
-      "category": "Closet"
-   
-    }
+      }
 ]
