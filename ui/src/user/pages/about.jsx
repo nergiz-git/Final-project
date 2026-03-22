@@ -1,6 +1,6 @@
 import { useState, useEffect, useContext } from "react";
 import { Link } from 'react-router-dom';
-import "./About.css";
+import "./about.css";
 import { Swiper, SwiperSlide } from "swiper/react";
 import { Autoplay, Pagination, Navigation } from "swiper/modules"; 
 import "swiper/css";

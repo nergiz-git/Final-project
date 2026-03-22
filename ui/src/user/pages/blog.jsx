@@ -1,6 +1,6 @@
 import React, { useContext, useEffect, useState } from "react";
 import { Link } from "react-router-dom";
-import "./Blog.css";
+import "./blog.css";
 import { FiChevronRight } from "react-icons/fi";
 
 import { Swiper, SwiperSlide } from "swiper/react";

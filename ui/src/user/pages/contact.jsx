@@ -1,6 +1,6 @@
 
 
-import './Contact.css'
+import './contact.css'
 import { useContext, useEffect } from 'react'
 import ScrollToTop from "react-scroll-to-top";
 import ContactSection from '../components/contactSection';

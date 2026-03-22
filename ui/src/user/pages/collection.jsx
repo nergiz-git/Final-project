@@ -1,7 +1,7 @@
 import { useContext, useEffect, useState } from "react";
 import { Link } from "react-router-dom";
 import { useRef } from "react";
-import "./Collection.css";
+import "./collection.css";
 import ProductCollection from "../components/productCollection";
 import data from "../../data.json"
 import Pagination from "../components/Pagination";

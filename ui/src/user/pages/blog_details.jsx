@@ -1,6 +1,6 @@
 import React, { useContext, useEffect, useState } from "react";
 import { useParams } from "react-router-dom";
-import './Blog_details.css'
+import './blog_details.css'
 import MainContext from "../context/context";
 
 function Blog_details() {

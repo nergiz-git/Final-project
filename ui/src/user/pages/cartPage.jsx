@@ -3,7 +3,7 @@ import Confetti from "react-confetti";
 import Cards from "react-credit-cards-2";
 import "react-credit-cards-2/dist/es/styles-compiled.css";
 import { connect } from "react-redux";
-import "./CartPage.css";
+import "./cartPage.css";
 import { AiFillCheckCircle } from "react-icons/ai";
 import { Bounce, toast } from "react-toastify";
 import MainContext from "../context/context";

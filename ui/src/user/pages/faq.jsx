@@ -1,5 +1,5 @@
 import { useState, useEffect, useContext } from "react";
-import "./Faq.css";
+import "./faq.css";
 import ScrollToTop from "react-scroll-to-top";
 import MainContext from "../context/context";
 import { useTranslation } from "react-i18next";

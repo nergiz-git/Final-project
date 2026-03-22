@@ -6,7 +6,7 @@ import ClipLoader from "react-spinners/ClipLoader";
 import { connect } from "react-redux";
 import { MdRemoveShoppingCart } from "react-icons/md";
 import { RiSearchLine } from "react-icons/ri";
-import "./Favorites.css";
+import "./favorites.css";
 import { Bounce, toast } from "react-toastify";
 import MainContext from "../context/context";
 import collectionData from "../../data.json";
