@@ -4,7 +4,7 @@ import { useRef } from "react";
 import "./collection.css";
 import ProductCollection from "../components/productCollection";
 import data from "../../data.json"
-import Pagination from "../components/pagination";
+import Pagination from "../components/paginationagination";
 import Timer from "../components/Timer";
 import { RiSearch2Line } from "react-icons/ri";
 import { BiFilterAlt } from "react-icons/bi";
