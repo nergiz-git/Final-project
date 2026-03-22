@@ -3,7 +3,7 @@ import { Link } from "react-router-dom"
 import { useContext, useEffect, useState } from "react";
 import { useParams } from "react-router-dom";
 import SingleCard from "../components/singleCard";
-import Review from "../components/review";
+import Review from "../components/Review";
 import { connect } from "react-redux";
 import { Swiper, SwiperSlide } from "swiper/react";
 import "swiper/css";
