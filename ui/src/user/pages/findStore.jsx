@@ -1,5 +1,5 @@
 import React, { useContext, useEffect } from 'react'
-import './Contact.css'
+import './contact.css'
 import MainContext from '../context/context';
 import { Helmet } from 'react-helmet';
 function FindStore() {
