@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from "react";
-import Pagination from "./pagination";
+import Pagination from "./Pagination";
 import { AiFillCheckCircle } from "react-icons/ai";
 function Review() {
   const reviews = [

@@ -5,7 +5,7 @@ import "./collection.css";
 import ProductCollection from "../components/productCollection";
 import data from "../../data.json"
 import Pagination from "../components/pagination";
-import Timer from "../components/Timer";
+import Timer from "../components/timer";
 import { RiSearch2Line } from "react-icons/ri";
 import { BiFilterAlt } from "react-icons/bi";
 import { SlClose } from "react-icons/sl";
